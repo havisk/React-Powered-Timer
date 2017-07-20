@@ -9,4 +9,10 @@
   a {
     color: $link-color;
   }
+  a:active {
+    color: #FF5E00;
+  }
+  .active-link {
+    font-weight: bold;
+  }
 }

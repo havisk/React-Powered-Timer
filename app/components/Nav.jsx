@@ -12,7 +12,7 @@ let Nav = React.createClass({
                        <li>
                            <IndexLink to="/" activeClassName="active"> Timer </IndexLink>
                        </li>
-                       <Link to="/" activeClassName="active"> Countdown </Link>
+                       <Link to="/countdown" activeClassName="active"> Countdown </Link>
                    </ul>
                </div>
                <div className="top-bar-right">
