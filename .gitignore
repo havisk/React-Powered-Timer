@@ -35,3 +35,4 @@ node_modules
 ehthumbs.db
 Thumbs.db
 .idea
+!/app/components/Countdown.jsx
