@@ -2,7 +2,7 @@ Boilerplate React App
 
 ## Welcome to My Project
 
-> I am your Readme.md file, you .
+> Timer App built using React.
 
 
 ## Usage
@@ -14,8 +14,10 @@ Boilerplate React App
 
 ## Tools Used
 
-- [Babel](https://babeljs.io/)
-- [Browserify](http://browserify.org/)
-- [JavaScript Code Style](http://jscs.info/)
-- [SASS](http://sass-lang.com/)
+- Webpack
+- SASS
+- Foundation
 
+
+
+### App Link:  http://vast-sands-82503.herokuapp.com/
