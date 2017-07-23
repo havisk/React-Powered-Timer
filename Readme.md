@@ -1,5 +1,3 @@
-Boilerplate React App
-
 ## Welcome to My Project
 
 > Timer App built using React.
